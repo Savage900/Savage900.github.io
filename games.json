@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Theft Auto V",
+    "genre": "Экшен",
+    "price": 1999,
+    "image": "images/gta5.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Red Dead Redemption 2",
+    "genre": "Приключения",
+    "price": 2499,
+    "image": "images/rdr2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cyberpunk 2077",
+    "genre": "RPG",
+    "price": 2199,
+    "image": "images/cyberpunk2077.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Elden Ring",
+    "genre": "RPG",
+    "price": 2999,
+    "image": "images/eldenring.jpg"
+  },
+  {
+    "id": 5,
+    "name": "The Witcher 3: Wild Hunt",
+    "genre": "RPG",
+    "price": 999,
+    "image": "images/witcher3.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Minecraft",
+    "genre": "Песочница",
+    "price": 1599,
+    "image": "images/minecraft.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Terraria",
+    "genre": "Песочница",
+    "price": 499,
+    "image": "images/terraria.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Counter-Strike 2",
+    "genre": "Шутер",
+    "price": 0,
+    "image": "images/cs2.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dota 2",
+    "genre": "MOBA",
+    "price": 0,
+    "image": "images/dota2.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Baldur's Gate 3",
+    "genre": "RPG",
+    "price": 3499,
+    "image": "images/bg3.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Resident Evil 4",
+    "genre": "Хоррор",
+    "price": 2299,
+    "image": "images/re4.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Forza Horizon 5",
+    "genre": "Гонки",
+    "price": 2399,
+    "image": "images/forza5.jpg"
+  },
+  {
+    "id": 13,
+    "name": "God of War Ragnarök",
+    "genre": "Экшен",
+    "price": 3499,
+    "image": "images/gowr.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Hogwarts Legacy",
+    "genre": "RPG",
+    "price": 2599,
+    "image": "images/hogwarts.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Black Myth: Wukong",
+    "genre": "Экшен",
+    "price": 3799,
+    "image": "images/wukong.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Helldivers 2",
+    "genre": "Экшен",
+    "price": 2199,
+    "image": "images/helldivers2.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Stardew Valley",
+    "genre": "Симулятор",
+    "price": 599,
+    "image": "images/stardew.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Rust",
+    "genre": "Выживание",
+    "price": 1299,
+    "image": "images/rust.jpg"
+  },
+  {
+    "id": 19,
+    "name": "EA Sports FC 26",
+    "genre": "Спорт",
+    "price": 3999,
+    "image": "images/fc26.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Clair Obscur: Expedition 33",
+    "genre": "RPG",
+    "price": 3299,
+    "image": "images/expedition33.jpg"
+  }
+]
